@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>md</string>
+		<string>markdown</string>
+		<string>mdown</string>
+		<string>markdn</string>
+	</array>
+	<key>injectionSelector</key>
+	<string>meta.embedded_less</string>
+	<key>name</key>
+	<string>Embedded Less</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>include</key>
+			<string>source.less</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>meta.embedded_less.markdown</string>
+	<key>uuid</key>
+	<string>147e9f05-cdcc-469e-9217-61dff8b2c61c</string>
+</dict>
+</plist>

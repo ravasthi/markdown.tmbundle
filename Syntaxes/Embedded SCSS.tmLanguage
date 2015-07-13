@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>md</string>
+		<string>markdown</string>
+		<string>mdown</string>
+		<string>markdn</string>
+	</array>
+	<key>injectionSelector</key>
+	<string>meta.embedded_scss</string>
+	<key>name</key>
+	<string>Embedded SCSS</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>include</key>
+			<string>source.scss</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>meta.embedded_scss.markdown</string>
+	<key>uuid</key>
+	<string>0a5efa01-7595-418f-8ccb-c90fac9c33aa</string>
+</dict>
+</plist>

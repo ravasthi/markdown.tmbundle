@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>md</string>
+		<string>markdown</string>
+		<string>mdown</string>
+		<string>markdn</string>
+	</array>
+	<key>injectionSelector</key>
+	<string>meta.embedded_python</string>
+	<key>name</key>
+	<string>Embedded Python</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>include</key>
+			<string>source.python</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>meta.embedded_python.markdown</string>
+	<key>uuid</key>
+	<string>fde3cb7d-3590-4ca1-b79f-3de0b15b06db</string>
+</dict>
+</plist>

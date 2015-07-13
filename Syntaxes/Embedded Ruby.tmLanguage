@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>md</string>
+		<string>markdown</string>
+		<string>mdown</string>
+		<string>markdn</string>
+	</array>
+	<key>injectionSelector</key>
+	<string>meta.embedded_ruby</string>
+	<key>name</key>
+	<string>Embedded Ruby</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>include</key>
+			<string>source.ruby</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>meta.embedded_ruby.markdown</string>
+	<key>uuid</key>
+	<string>fe5efe30-a14e-4e40-aa23-9ca8655febc9</string>
+</dict>
+</plist>

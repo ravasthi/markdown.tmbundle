@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>md</string>
+		<string>markdown</string>
+		<string>mdown</string>
+		<string>markdn</string>
+	</array>
+	<key>injectionSelector</key>
+	<string>L:text.html.markdown</string>
+	<key>name</key>
+	<string>Fenced code blocks</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>begin</key>
+			<string>```(\w+)\n?</string>
+			<key>contentName</key>
+			<string>meta.embedded_$1.markdown</string>
+			<key>end</key>
+			<string>```\n?</string>
+			<key>name</key>
+			<string>markup.raw.block.markdown</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>injection.markdown.hilight</string>
+	<key>uuid</key>
+	<string>BCFB05DD-AB5C-488C-9D41-0EC7D1569B39</string>
+</dict>
+</plist>
