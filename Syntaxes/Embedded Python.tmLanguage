@@ -10,7 +10,7 @@
 		<string>markdn</string>
 	</array>
 	<key>injectionSelector</key>
-	<string>meta.embedded_python</string>
+	<string>meta.embedded_python $</string>
 	<key>name</key>
 	<string>Embedded Python</string>
 	<key>patterns</key>

@@ -10,7 +10,7 @@
 		<string>markdn</string>
 	</array>
 	<key>injectionSelector</key>
-	<string>meta.embedded_shell</string>
+	<string>meta.embedded_shell $</string>
 	<key>name</key>
 	<string>Embedded Shell Script</string>
 	<key>patterns</key>

@@ -10,7 +10,7 @@
 		<string>markdn</string>
 	</array>
 	<key>injectionSelector</key>
-	<string>meta.embedded_ruby</string>
+	<string>meta.embedded_ruby $</string>
 	<key>name</key>
 	<string>Embedded Ruby</string>
 	<key>patterns</key>

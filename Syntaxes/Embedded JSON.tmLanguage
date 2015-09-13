@@ -10,7 +10,7 @@
 		<string>markdn</string>
 	</array>
 	<key>injectionSelector</key>
-	<string>meta.embedded_json</string>
+	<string>meta.embedded_json $</string>
 	<key>name</key>
 	<string>Embedded JSON</string>
 	<key>patterns</key>

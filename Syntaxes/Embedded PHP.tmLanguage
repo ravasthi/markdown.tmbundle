@@ -10,7 +10,7 @@
 		<string>markdn</string>
 	</array>
 	<key>injectionSelector</key>
-	<string>meta.embedded_php</string>
+	<string>meta.embedded_php $</string>
 	<key>name</key>
 	<string>Embedded PHP</string>
 	<key>patterns</key>

@@ -10,7 +10,7 @@
 		<string>markdn</string>
 	</array>
 	<key>injectionSelector</key>
-	<string>meta.embedded_less</string>
+	<string>meta.embedded_less $</string>
 	<key>name</key>
 	<string>Embedded Less</string>
 	<key>patterns</key>

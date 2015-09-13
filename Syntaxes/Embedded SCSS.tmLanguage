@@ -10,7 +10,7 @@
 		<string>markdn</string>
 	</array>
 	<key>injectionSelector</key>
-	<string>meta.embedded_scss</string>
+	<string>meta.embedded_scss $</string>
 	<key>name</key>
 	<string>Embedded SCSS</string>
 	<key>patterns</key>
